@@ -31,6 +31,13 @@
 <link rel="stylesheet" href="css/estilos.css">
 <script src="js/script.js"></script>
 <img src="img/logo.png" alt="Logo de la empresa">
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=EMPRESA.html">
+  </head>
+</html>
+https://lautaroruiz-png.github.io/Ecol-gica-S.A.S/
 
 
 
